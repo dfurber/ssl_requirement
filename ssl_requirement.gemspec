@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
      "README",
      "Rakefile",
      "VERSION",
-     "walski-ssl_requirement.gemspec",
+     "ssl_requirement.gemspec",
      "init.rb",
      "lib/ssl_requirement.rb",
      "lib/url_for.rb",
