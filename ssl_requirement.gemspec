@@ -4,11 +4,11 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{walski-ssl_requirement}
+  s.name = %q{ssl_requirement}
   s.version = "1.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["RailsJedi", "David Heinemeier Hansson", "jcnetdev", "bcurren", "bmpercy", "revo", "nathany", "bartt", 'Thorben Schröder']
+  s.authors = ["RailsJedi", "David Heinemeier Hansson", "jcnetdev", "bcurren", "bmpercy", "revo", "nathany", "bartt", 'Thorben Schroeder']
   s.date = %q{2010-07-28}
   s.description = %q{SSL requirement adds a declarative way of specifying that certain actions should only be allowed to run under SSL, and if they're accessed without it, they should be redirected.}
   s.email = %q{thorben@kopfmaschine.com}
